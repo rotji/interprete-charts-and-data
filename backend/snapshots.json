@@ -1,0 +1,527 @@
+[
+  {
+    "timestamp": "2026-04-06T17:33:33.641Z",
+    "price": 69565,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:34:31.240Z",
+    "price": 69570,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:35:30.186Z",
+    "price": 69528,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:36:30.538Z",
+    "price": 69522,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:37:30.747Z",
+    "price": 69543,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:39:30.671Z",
+    "price": 69554,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:40:30.257Z",
+    "price": 69548,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:41:30.317Z",
+    "price": 69522,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:42:30.616Z",
+    "price": 69509,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:44:30.305Z",
+    "price": 69456,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:45:30.338Z",
+    "price": 69457,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:46:30.614Z",
+    "price": 69463,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:47:30.282Z",
+    "price": 69462,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:48:30.548Z",
+    "price": 69459,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:49:30.374Z",
+    "price": 69430,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:50:30.652Z",
+    "price": 69452,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:51:30.501Z",
+    "price": 69482,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T17:52:30.622Z",
+    "price": 69523,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T18:49:27.753Z",
+    "price": 69734,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:28:27.651Z",
+    "price": 69666,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:29:27.455Z",
+    "price": 69666,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:30:27.323Z",
+    "price": 69665,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:31:27.915Z",
+    "price": 69659,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:32:28.127Z",
+    "price": 69655,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:33:27.719Z",
+    "price": 69637,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:34:32.915Z",
+    "price": 69644,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:35:27.707Z",
+    "price": 69648,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:36:27.644Z",
+    "price": 69647,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:37:27.847Z",
+    "price": 69639,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:38:27.539Z",
+    "price": 69596,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:39:27.559Z",
+    "price": 69496,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:40:27.554Z",
+    "price": 69491,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:41:27.867Z",
+    "price": 69498,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:42:27.900Z",
+    "price": 69497,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:43:27.776Z",
+    "price": 69494,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:47:02.716Z",
+    "price": 69461,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:48:02.263Z",
+    "price": 69479,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:51:59.669Z",
+    "price": 69555,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:54:15.865Z",
+    "price": 69515,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:55:15.580Z",
+    "price": 69526,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:56:15.673Z",
+    "price": 69501,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:57:15.469Z",
+    "price": 69495,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:58:16.603Z",
+    "price": 69496,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T21:59:15.484Z",
+    "price": 69517,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:00:15.594Z",
+    "price": 69518,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:01:15.395Z",
+    "price": 69490,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:02:39.477Z",
+    "price": 69473,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:04:36.034Z",
+    "price": 69445,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:05:36.155Z",
+    "price": 69440,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:07:16.498Z",
+    "price": 69440,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:09:02.130Z",
+    "price": 69494,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:10:02.273Z",
+    "price": 69515,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:11:02.145Z",
+    "price": 69522,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:12:02.533Z",
+    "price": 69525,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:21:21.604Z",
+    "price": 69436,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:23:21.267Z",
+    "price": 69392,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:24:21.085Z",
+    "price": 69385,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:25:21.069Z",
+    "price": 69364,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:26:21.118Z",
+    "price": 69363,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:27:21.157Z",
+    "price": 69345,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:29:15.143Z",
+    "price": 69365,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:30:15.379Z",
+    "price": 69388,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:31:15.192Z",
+    "price": 69385,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:32:15.050Z",
+    "price": 69353,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:33:15.248Z",
+    "price": 69320,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:34:15.100Z",
+    "price": 69294,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:35:15.094Z",
+    "price": 69267,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:36:32.776Z",
+    "price": 69269,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:38:45.804Z",
+    "price": 69300,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:39:47.444Z",
+    "price": 69313,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:41:50.754Z",
+    "price": 69326,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:42:46.540Z",
+    "price": 69324,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:43:46.420Z",
+    "price": 69325,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:44:49.375Z",
+    "price": 69298,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:45:49.939Z",
+    "price": 69281,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:46:46.679Z",
+    "price": 69236,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:47:52.963Z",
+    "price": 69205,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:48:46.481Z",
+    "price": 69192,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:49:46.463Z",
+    "price": 69187,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:50:47.597Z",
+    "price": 69186,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:51:46.445Z",
+    "price": 69183,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:52:46.509Z",
+    "price": 69181,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:53:46.458Z",
+    "price": 69143,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:54:46.825Z",
+    "price": 69065,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:55:46.500Z",
+    "price": 68974,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:56:46.493Z",
+    "price": 68930,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:57:46.569Z",
+    "price": 68943,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:58:46.561Z",
+    "price": 68918,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T22:59:46.537Z",
+    "price": 68916,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:01:47.365Z",
+    "price": 68824,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:02:49.552Z",
+    "price": 68769,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:03:52.325Z",
+    "price": 68628,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:04:46.541Z",
+    "price": 68641,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:05:50.104Z",
+    "price": 68652,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:06:46.657Z",
+    "price": 68653,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:07:46.626Z",
+    "price": 68616,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:08:49.567Z",
+    "price": 68564,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:09:46.863Z",
+    "price": 68478,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:10:46.838Z",
+    "price": 68538,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:11:46.552Z",
+    "price": 68617,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:12:46.564Z",
+    "price": 68640,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:13:47.542Z",
+    "price": 68638,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:15:49.499Z",
+    "price": 68650,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:17:46.684Z",
+    "price": 68568,
+    "source": "coingecko-btc-usd"
+  },
+  {
+    "timestamp": "2026-04-06T23:18:46.690Z",
+    "price": 68538,
+    "source": "coingecko-btc-usd"
+  }
+]
